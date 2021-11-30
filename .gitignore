@@ -1,0 +1,26 @@
+# R Cruft
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Mac cruft
+.DS_Store
+.idea
+
+# Python cruft
+.ipynb_checkpoints/
+*.egg-info/
+venv/
+.venv
+.pytest_cache
+.mypy_cache
+__pycache__
+*.txt
+*.txt.gz
+
+# COBOL cruft
+main
+
+# Rust builds
+/target
